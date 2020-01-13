@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Avenir Next', sans-serif;
+  background-image: url(https://images2.alphacoders.com/723/thumb-1920-723261.jpg);
+}
+
+
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+}
